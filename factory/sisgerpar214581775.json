@@ -1,0 +1,15 @@
+{
+	"name": "sisgerpar214581775",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6302779-6eb1-4a1f-9b35-f7745ce8d44d",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
